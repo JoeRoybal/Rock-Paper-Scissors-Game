@@ -173,14 +173,14 @@ Project Link: [https://github.com/JoeRoybal/Rock-Paper-Scissors-Game](https://gi
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/JoeRoybal/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/JoeRoybal/repo/graphs/contributors
+[contributors-url]: https://github.com/JoeRoybal/Rock-Paper-Scissors-Game/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/JoeRoybal/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/JoeRoybal/repo/network/members
+[forks-url]: https://github.com/JoeRoybal/Rock-Paper-Scissors-Game/network/members
 [stars-shield]: https://img.shields.io/github/stars/JoeRoybal/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/JoeRoybal/repo/stargazers
+[stars-url]: https://github.com/JoeRoybal/Rock-Paper-Scissors-Game/stargazers
 [issues-shield]: https://img.shields.io/github/issues/JoeRoybal/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/JoeRoybal/repo/issues
+[issues-url]: https://github.com/JoeRoybal/Rock-Paper-Scissors-Game/issues
 [license-shield]: https://img.shields.io/github/license/JoeRoybal/repo.svg?style=for-the-badge
-[license-url]: https://github.com/JoeRoybal/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/JoeRoybal/Rock-Paper-Scissors-Game/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/JoeRoybal
